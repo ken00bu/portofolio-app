@@ -1,0 +1,10 @@
+{
+    "Hero": {
+        "title": "M.Fikri Asad's Playground",
+        "Sub": "Halo Dunia, ini website tes React. Didesain di Figma dan dikembangkan menggunakan React dengan Next JS. Terimakasih kepada teman Saya, Petrus Hendrik Geyu yang sudah mengajarkannya Saya!"
+    },
+    "Intro":{
+        "title":"Saya Muhammad Fikri, Saya seorang desainer grafis tata letak sekaligus Front-end Web Developer",
+        "Sub": "Nama panjang Saya Muhammad Fikri As’ad Supratman. Saya menyukai desain grafis sejak lama. Tahun ini (2025) Saya baru saja lulus dari SMKN 1 Palangkaraya, dengan beberapa sertifikat yang Saya dapatkan selama tiga tahun ini dan ilmu Programming dasar dari RPL."
+    }
+}
