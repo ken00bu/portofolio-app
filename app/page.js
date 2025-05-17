@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Hero />
-      <div className="h-100"></div>
+      <div></div>
     </div>
   );
 }
