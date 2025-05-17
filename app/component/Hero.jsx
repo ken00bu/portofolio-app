@@ -1,4 +1,4 @@
-import teks from "./Teks-Porto.JSON"
+import teks from "./teks-porto.JSON"
 import Image from "next/image";
 
 const Circle = (total) => {
